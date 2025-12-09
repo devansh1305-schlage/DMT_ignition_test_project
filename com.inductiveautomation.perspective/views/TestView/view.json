@@ -1,0 +1,36 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {
+    "defaultSize": {
+      "height": 863,
+      "width": 1368
+    }
+  },
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "Icon"
+        },
+        "position": {
+          "height": 130,
+          "rotate": {
+            "anchor": "-603% -990%"
+          },
+          "width": 190,
+          "x": 573,
+          "y": 295
+        },
+        "props": {
+          "path": "material/insert_emoticon"
+        },
+        "type": "ia.display.icon"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "type": "ia.container.coord"
+  }
+}
